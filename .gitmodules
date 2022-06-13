@@ -1,0 +1,9 @@
+[submodule "api"]
+	path = api
+	url = https://github.com/CraftbenchMC/Craftbench-API
+[submodule "loader"]
+	path = loader
+	url = https://github.com/CraftbenchMC/Craftbench-Loader
+[submodule "maven"]
+	path = maven
+	url = https://github.com/CraftbenchMC/maven
