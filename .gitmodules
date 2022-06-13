@@ -7,3 +7,6 @@
 [submodule "maven"]
 	path = maven
 	url = https://github.com/CraftbenchMC/maven
+[submodule "workbench"]
+	path = workbench
+	url = https://github.com/CraftbenchMC/Workbench
